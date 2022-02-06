@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186527387123",
+    "project_id": "kieznews",
+    "storage_bucket": "kieznews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186527387123:android:c2e5c2d1ea9ed63bd45686",
+        "android_client_info": {
+          "package_name": "com.kiez.news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186527387123-5bp0f9aaaold4hafjkr20pnlip4goh5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiez.news",
+            "certificate_hash": "67d3fcbc34e8dc1642d60f02b07121762b7706dd"
+          }
+        },
+        {
+          "client_id": "186527387123-eppqb5ehtnvqif2g6jm42stefdil2i6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kiez.news",
+            "certificate_hash": "cd013fa03551f7364199d578b3476e5c3c76bd4c"
+          }
+        },
+        {
+          "client_id": "186527387123-mfskv1fmtfgq0l5t7lsua03ep44eub4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoBcLp7XCoBJGv8qbUfAJGCXcUB12_lYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186527387123-mfskv1fmtfgq0l5t7lsua03ep44eub4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
